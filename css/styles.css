@@ -211,7 +211,7 @@ img {
   padding: 200px 0;
   background-color: var(--background-img-color);
   background-image: linear-gradient(to right, var(--bg-linear-gradient), var(--bg-linear-gradient)),
-    url(../images/bg-img.jpg);
+    url(../images/bg-img.jpeg);
   background-size: 1600px;
   background-position: cover;
   background-repeat: no-repeat;
